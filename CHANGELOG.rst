@@ -2,8 +2,14 @@
 Changelog for package sick_scan_xd
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+3.1.8 (2024-01-15)
+------------------
+* Removed pthread dependency under ROS-2
+* Contributors: rostest
+
 3.1.7 (2024-01-12)
 ------------------
+* Update CHANGELOG.rst
 * Specified ROS version for humble bloom release
 * Contributors: rostest
 
