@@ -1,3 +1,26 @@
+## sick_scan_xd (humble) - 3.1.11-1
+
+The packages in the `sick_scan_xd` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble --track humble sick_scan_xd` on `Wed, 17 Jan 2024 09:36:12 -0000`
+
+The `sick_scan_xd` package was released.
+
+Version of package(s) in repository `sick_scan_xd`:
+
+- upstream repository: https://github.com/SICKAG/sick_scan_xd.git
+- release repository: https://github.com/ros2-gbp/sick_scan_xd-release.git
+- rosdistro version: `3.1.10-1`
+- old version: `3.1.10-1`
+- new version: `3.1.11-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## sick_scan_xd (humble) - 3.1.10-1
 
 The packages in the `sick_scan_xd` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble --track humble sick_scan_xd` on `Tue, 16 Jan 2024 16:39:01 -0000`
