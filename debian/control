@@ -1,0 +1,12 @@
+Source: ros-jazzy-sick-scan-xd
+Section: misc
+Priority: optional
+Maintainer: rostest <ros.test@lehning.de>
+Build-Depends: debhelper (>= 9.0.0), ros-jazzy-ament-cmake, ros-jazzy-ament-lint-auto <!nocheck>, ros-jazzy-ament-lint-common <!nocheck>, ros-jazzy-diagnostic-msgs, ros-jazzy-diagnostic-updater, ros-jazzy-geometry-msgs, ros-jazzy-nav-msgs, ros-jazzy-rcl-interfaces, ros-jazzy-rosidl-default-generators, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-tf2, ros-jazzy-tf2-ros, ros-jazzy-visualization-msgs, ros-jazzy-ros-workspace, ros-jazzy-rosidl-typesupport-fastrtps-c, ros-jazzy-rosidl-typesupport-fastrtps-cpp
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-sick-scan-xd
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jazzy-diagnostic-msgs, ros-jazzy-diagnostic-updater, ros-jazzy-geometry-msgs, ros-jazzy-nav-msgs, ros-jazzy-rcl-interfaces, ros-jazzy-rosidl-default-runtime, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-tf2, ros-jazzy-tf2-ros, ros-jazzy-visualization-msgs, ros-jazzy-ros-workspace
+Description: ROS 1 and 2 driver for SICK scanner
