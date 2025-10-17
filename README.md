@@ -1,3 +1,26 @@
+## sick_scan_xd (kilted) - 3.8.0-1
+
+The packages in the `sick_scan_xd` repository were released into the `kilted` distro by running `/home/rostest/.local/bin/bloom-release sick_scan_xd --rosdistro kilted --track kilted` on `Fri, 17 Oct 2025 08:57:56 -0000`
+
+The `sick_scan_xd` package was released.
+
+Version of package(s) in repository `sick_scan_xd`:
+
+- upstream repository: https://github.com/SICKAG/sick_scan_xd.git
+- release repository: https://github.com/ros2-gbp/sick_scan_xd-release.git
+- rosdistro version: `3.7.0-2`
+- old version: `3.7.0-2`
+- new version: `3.8.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## sick_scan_xd (kilted) - 3.7.0-2
 
 The packages in the `sick_scan_xd` repository were released into the `kilted` distro by running `/usr/bin/bloom-release --rosdistro kilted -d sick_scan_xd` on `Tue, 24 Jun 2025 07:12:17 -0000`
