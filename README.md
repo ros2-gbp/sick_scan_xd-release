@@ -1,3 +1,26 @@
+## sick_scan_xd (lyrical) - 3.10.0-1
+
+The packages in the `sick_scan_xd` repository were released into the `lyrical` distro by running `/usr/bin/bloom-release sick_scan_xd --rosdistro lyrical` on `Thu, 29 Oct 2026 14:37:32 -0000`
+
+The `sick_scan_xd` package was released.
+
+Version of package(s) in repository `sick_scan_xd`:
+
+- upstream repository: https://github.com/SICKAG/sick_scan_xd.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `3.9.0-1`
+- new version: `3.10.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.4`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.27.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## sick_scan_xd (kilted) - 3.10.0-1
 
 The packages in the `sick_scan_xd` repository were released into the `kilted` distro by running `/usr/bin/bloom-release sick_scan_xd --rosdistro kilted` on `Thu, 29 Oct 2026 14:32:23 -0000`
