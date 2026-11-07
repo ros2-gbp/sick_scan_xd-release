@@ -16,7 +16,7 @@ tracks:
       :{release_inc} --os-name rhel
     - git-bloom-generate -y rosdynrpm --prefix release/:{ros_distro} :{ros_distro}
       -i :{release_inc} --require-os fedora rhel
-    devel_branch: release/3.10.1
+    devel_branch: develop
     last_version: 3.10.0
     name: upstream
     patches: null
@@ -42,7 +42,7 @@ tracks:
       :{release_inc} --os-name fedora
     - git-bloom-generate -y rosrpm --prefix release/:{ros_distro} :{ros_distro} -i
       :{release_inc} --os-name rhel
-    devel_branch: release/3.10.1
+    devel_branch: develop
     last_version: 3.6.0
     name: upstream
     patches: null
@@ -70,7 +70,7 @@ tracks:
       :{release_inc} --os-name rhel
     - git-bloom-generate -y rosdynrpm --prefix release/:{ros_distro} :{ros_distro}
       -i :{release_inc} --require-os fedora rhel
-    devel_branch: release/3.10.1
+    devel_branch: develop
     last_version: 3.10.0
     name: upstream
     patches: null
@@ -98,7 +98,7 @@ tracks:
       :{release_inc} --os-name rhel
     - git-bloom-generate -y rosdynrpm --prefix release/:{ros_distro} :{ros_distro}
       -i :{release_inc} --require-os fedora rhel
-    devel_branch: release/3.10.1
+    devel_branch: develop
     last_version: 3.10.0
     name: upstream
     patches: null
@@ -126,7 +126,7 @@ tracks:
       :{release_inc} --os-name rhel
     - git-bloom-generate -y rosdynrpm --prefix release/:{ros_distro} :{ros_distro}
       -i :{release_inc} --require-os fedora rhel
-    devel_branch: release/3.10.1
+    devel_branch: develop
     last_version: 3.10.0
     name: upstream
     patches: null
